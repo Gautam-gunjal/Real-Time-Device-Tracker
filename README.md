@@ -11,7 +11,6 @@ It allows you to track devices in real-time on a live server using WebSockets.
 - [🛠️ Tech Stack](#️-tech-stack)
 - [📂 Project Structure](#-project-structure)
 - [⚙️ Installation & Setup](#️-installation--setup)
-- [📸 Screenshots (Optional)](#-screenshots-optional)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
 - [👤 Author](#-author)
@@ -79,11 +78,6 @@ Real-Time-Device-Tracker/
 
 ---
 
-## 📸 Screenshots (Optional)
-
-_Add screenshots or GIFs of your tracker UI here._
-
----
 
 ## 🤝 Contributing
 
